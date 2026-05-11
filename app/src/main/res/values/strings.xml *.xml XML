@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P2P Chat</string>
+    <string name="scanning">正在搜索附近设备…</string>
+    <string name="no_devices">未发现设备</string>
+    <string name="connected">已连接</string>
+    <string name="encrypted">🔒 端到端加密</string>
+    <string name="type_message">输入消息…</string>
+    <string name="send_image">发送图片</string>
+    <string name="create_group">创建群组</string>
+    <string name="group_name">群组名称</string>
+</resources>
